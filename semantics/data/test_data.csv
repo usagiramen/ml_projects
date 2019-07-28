@@ -1,0 +1,20 @@
+0,this is happy,True
+1,i am good,True
+2,this is not happy,False
+3,i am not good,False
+4,this is not bad,True
+5,i am not sad,True
+6,i am very good,True
+7,this is very bad,False
+8,i am very sad,False
+9,this is bad not good,False
+10,this is good and happy,True
+11,i am not good and not happy,False
+12,i am not at all sad,True
+13,this is not at all good,False
+14,this is not at all bad,True
+15,this is good right now,True
+16,this is sad right now,False
+17,this is very bad right now,False
+18,this was good earlier,True
+19,i was not happy and not good earlier,False

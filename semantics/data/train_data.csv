@@ -1,0 +1,58 @@
+0,good,True
+1,bad,False
+2,happy,True
+3,sad,False
+4,not good,False
+5,not bad,True
+6,not happy,False
+7,not sad,True
+8,very good,True
+9,very bad,False
+10,very happy,True
+11,very sad,False
+12,i am happy,True
+13,this is good,True
+14,i am bad,False
+15,this is bad,False
+16,i am sad,False
+17,this is sad,False
+18,i am not happy,False
+19,this is not good,False
+20,i am not bad,True
+21,this is not sad,True
+22,i am very happy,True
+23,this is very good,True
+24,i am very bad,False
+25,this is very sad,False
+26,this is very happy,True
+27,i am good not bad,True
+28,this is good not bad,True
+29,i am bad not good,False
+30,i am good and happy,True
+31,this is not good and not happy,False
+32,i am not at all good,False
+33,i am not at all bad,True
+34,i am not at all happy,False
+35,this is not at all sad,True
+36,this is not at all happy,False
+37,i am good right now,True
+38,i am bad right now,False
+39,this is bad right now,False
+40,i am sad right now,False
+41,i was good earlier,True
+42,i was happy earlier,True
+43,i was bad earlier,False
+44,i was sad earlier,False
+45,i am very bad right now,False
+46,this is very good right now,True
+47,this is very sad right now,False
+48,this was bad earlier,False
+49,this was very good earlier,True
+50,this was very bad earlier,False
+51,this was very happy earlier,True
+52,this was very sad earlier,False
+53,i was good and not bad earlier,True
+54,i was not good and not happy earlier,False
+55,i am not at all bad or sad right now,True
+56,i am not at all good or happy right now,False
+57,this was not happy and not good earlier,False
