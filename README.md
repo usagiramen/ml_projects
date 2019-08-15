@@ -1,2 +1,2 @@
-# recurrent_neural_networks
-side projects using RNN
+# ml_projects
+side projects of sorts using machine learning.
